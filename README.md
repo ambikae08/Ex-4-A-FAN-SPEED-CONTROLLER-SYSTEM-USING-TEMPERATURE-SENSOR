@@ -85,6 +85,8 @@ o	Arduino 5V to Breadboard 5V Rail: Connect a wire from the Arduino 5V pin to th
   
 2.	Save the Circuit: Click "Save" to keep your circuit design and code for future use.
 ## CIRCUIT DIAGRAM
+
+
 <img width="654" height="351" alt="image" src="https://github.com/user-attachments/assets/6a0b8491-d6e6-48bd-aef4-ff1509195ffc" />
 
 ## PROGRAM
